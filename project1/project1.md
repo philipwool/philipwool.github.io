@@ -20,7 +20,7 @@ I ran a spatial query using SQL in database manager.
 The spatial query created centroids of the polygons of residential properties with sale prices over $250,000.
 The SQL script I used was as follows:
 
-![alt text](https://philipwool.github.io/project1/Spatial SQL Script.PNG)
+![alt text](https://philipwool.github.io/project1/Spatial_SQL_Script.PNG)
 
 In the Attribute table residential properties are indicated under the column “Usegroup” as “R” and sale price is listed under the column “Salepric”.
 I created a hex grid using the “Create Grid” tool with 0.5km vertical and horizontal spacing to the extent of the boundary shapefile.
