@@ -1,1 +1,8 @@
 remote_theme: daviddarnes/alembic
+
+navigation_header:
+  Home: /
+  Project 1: /project1/project1.html
+  Project 2: /project2/project2.html
+  Project 3: /Lab_6/Lab_6.html
+  Project 4: /project1_bamap/project1.html
