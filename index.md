@@ -7,7 +7,7 @@ title: Ryan Wooldridge's Portfolio
 
 ### Project 1 
 
-![It's Fine Alt Text](project1_bamap/p1_teaser.png)
+![It's Fine Alt Text](https://philipwool.github.io/project1/Hex_Analysis_screenshot.png)
 
 [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
