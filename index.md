@@ -40,7 +40,7 @@ The text below is smaller than the rest of this text. I used html tags for `smal
 
 Notice I used markdown inside the html tags. 
 
-<small>__Tools__: QGIS, Python, Photoshop</small>
+<small>__Tools__: QGIS, R</small>
 
 <small>__Data__:
 [Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
