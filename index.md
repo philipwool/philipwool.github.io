@@ -13,7 +13,7 @@ title: Ryan Wooldridge's Portfolio
 
 Hexagon analysis of the density of $250,000 homes in Baltimore city, overlaid an a 3-dimensional elevation map.
 
-<small>__Tools__: QGIS, Interpolation, Photoshop</small>
+<small>__Tools__: QGIS, SQL</small>
 
 <small>__Data__: 
 [Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
@@ -36,7 +36,7 @@ The text below is smaller than the rest of this text. I used html tags for `smal
 
 Notice I used markdown inside the html tags. 
 
-<small>__Tools__: QGIS, R</small>
+<small>__Tools__: QGIS, Python, Photoshop</small>
 
 <small>__Data__:
 [Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
@@ -55,7 +55,7 @@ Notice I used markdown inside the html tags.
 
 This project uses a 350px square image for the teaser image, but inside the square image, I used a circle to highlight a certain area. Pellentesque eget mauris vel mi tristique finibus vitae quis massa. Mauris vulputate, nulla vel tincidunt interdum, sem mauris scelerisque neque, suscipit pellentesque felis augue a erat. 
 
-<small>__Tools__: QGIS, Interpolation, Photoshop
+<small>__Tools__: GeoDa
 
 <small>__Data__: 
 [Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
@@ -72,7 +72,7 @@ This project uses a 350px square image for the teaser image, but inside the squa
 
 Phasellus consequat quam elit, et iaculis risus pellentesque aliquet. Proin ut enim dui. Ut elementum, purus nec rhoncus sagittis, nibh nunc auctor nulla, eu condimentum nisi velit eget magna. Nulla feugiat tincidunt dictum. Vestibulum congue sapien elit. Maecenas non sodales ligula, quis tempor mi. 
 
-<small>__Tools__: QGIS, R
+<small>__Tools__: QGIS, ArcGIS, Python
 
 <small>__Data__:
 [Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
