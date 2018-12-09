@@ -24,7 +24,7 @@ This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum
 
 ### Project 2
 
-![It's Fine Alt Text](project2_sfi/p2_teaser.png)
+![It's Fine Alt Text](https://philipwool.github.io/project2/3d_Comm.gif)
 
 [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
 
