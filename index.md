@@ -39,10 +39,8 @@ Spatial and temporal distribution analysis of commercial development in Baltimor
 Using Python to write new shapefiles from a spatial query selection:
 
 ```html
-selection = Real_Property.getFeatures(QgsFeatureRequest(). setFilterExpression(u'"YEAR_BUILD" >= 1900 and "YEAR_BUILD" <= 2018 and "USEGROUP" = \'C\''))
+QgsVectorFileWriter.writeAsVectorFormat(Real_Property, r'C:/Users/ges_student/Desktop/Project_2/Shapefiles/Comm_Poly_Test2.gpkg', 'utf-8', Real_Property.crs(),'GPKG', True)
 ```
-
-Notice I used markdown inside the html tags. 
 
 <small>__Tools__: QGIS, Python, Photoshop</small>
 
@@ -61,7 +59,7 @@ Notice I used markdown inside the html tags.
 
 [See more details here.](https://philipwool.github.io/lab6/lab6.html)
 
-This project uses a 350px square image for the teaser image, but inside the square image, I used a circle to highlight a certain area. Pellentesque eget mauris vel mi tristique finibus vitae quis massa. Mauris vulputate, nulla vel tincidunt interdum, sem mauris scelerisque neque, suscipit pellentesque felis augue a erat. 
+Using Geoda to evaluate spatial autocorrelation.
 
 <small>__Tools__: GeoDa
 
@@ -78,9 +76,9 @@ This project uses a 350px square image for the teaser image, but inside the squa
 
 [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
 
-Phasellus consequat quam elit, et iaculis risus pellentesque aliquet. Proin ut enim dui. Ut elementum, purus nec rhoncus sagittis, nibh nunc auctor nulla, eu condimentum nisi velit eget magna. Nulla feugiat tincidunt dictum. Vestibulum congue sapien elit. Maecenas non sodales ligula, quis tempor mi. 
+Creating digital elevation models of the Patapsco river to analyze sediment evacuation and changes in channel morphology as a result of the removal of the Bloede dam.
 
-<small>__Tools__: QGIS, ArcGIS, Python
+<small>__Tools__: Agisoft, QGIS, ArcGIS, Python
 
 <small>__Data__:
 [Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
