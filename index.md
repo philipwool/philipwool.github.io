@@ -9,7 +9,7 @@ title: Ryan Wooldridge's Portfolio
 
 ![It's Fine Alt Text](https://philipwool.github.io/project1/Hex_Analysis_screenshot.png)
 
-[See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
+[See more details here.](https://philipwool.github.io/project1/project1.html)
 
 This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum et auctor. Pellentesque sollicitudin aliquet quam, non vulputate mi tincidunt a. Quisque ultricies lectus mattis leo pharetra fringilla. 
 
@@ -47,9 +47,9 @@ Notice I used markdown inside the html tags.
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
-### Project 3 
+### Lab 6 
 
-![It's Fine Alt Text](project3_demo/p3_teaser.png)
+![It's Fine Alt Text](philipwool.github.io/lab6/Guerry_Dotn_NatBrk.JPG)
 
 [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
