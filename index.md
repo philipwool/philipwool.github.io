@@ -13,6 +13,12 @@ title: Ryan Wooldridge's Portfolio
 
 Spatial distribution analysis of the density of $250,000 homes in Baltimore city.
 
+Using SQL to query a Spatialite database:
+
+```html
+selection = Real_Property.getFeatures(QgsFeatureRequest(). setFilterExpression(u'"YEAR_BUILD" >= 1900 and "YEAR_BUILD" <= 2018 and "USEGROUP" = \'C\''))
+```
+
 <small>__Tools__: QGIS, SQL</small>
 
 <small>__Data__: 
@@ -30,10 +36,10 @@ Spatial distribution analysis of the density of $250,000 homes in Baltimore city
 
 Spatial and temporal distribution analysis of commercial development in Baltimore city.
 
-The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
+Using Python to write new shapefiles from a spatial query selection:
 
 ```html
-<small>Text to *make* small.</small>
+selection = Real_Property.getFeatures(QgsFeatureRequest(). setFilterExpression(u'"YEAR_BUILD" >= 1900 and "YEAR_BUILD" <= 2018 and "USEGROUP" = \'C\''))
 ```
 
 Notice I used markdown inside the html tags. 
