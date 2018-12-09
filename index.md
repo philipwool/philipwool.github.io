@@ -11,7 +11,7 @@ title: Ryan Wooldridge's Portfolio
 
 [See more details here.](https://philipwool.github.io/project1/project1.html)
 
-This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum et auctor. Pellentesque sollicitudin aliquet quam, non vulputate mi tincidunt a. Quisque ultricies lectus mattis leo pharetra fringilla. 
+Hexagon analysis of the density of $250,000 homes in Baltimore city, overlaid an a 3-dimensional elevation map.
 
 <small>__Tools__: QGIS, Interpolation, Photoshop</small>
 
