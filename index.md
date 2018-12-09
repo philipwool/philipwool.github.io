@@ -11,7 +11,7 @@ title: Ryan Wooldridge's Portfolio
 
 [See more details here.](https://philipwool.github.io/project1/project1.html)
 
-Hexagon analysis of the density of $250,000 homes in Baltimore city, overlaid an a 3-dimensional elevation map.
+Spatial distribution analysis of the density of $250,000 homes in Baltimore city.
 
 <small>__Tools__: QGIS, SQL</small>
 
@@ -27,6 +27,8 @@ Hexagon analysis of the density of $250,000 homes in Baltimore city, overlaid an
 ![It's Fine Alt Text](https://philipwool.github.io/project2/3d_Comm.gif)
 
 [See more details here.](https://philipwool.github.io/project2/project2.html)
+
+Spatial and temporal distribution analysis of commercial development in Baltimore city.
 
 The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
 
