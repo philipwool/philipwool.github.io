@@ -72,7 +72,7 @@ Using Geoda to evaluate spatial autocorrelation.
 
 ![It's Fine Alt Text](project4_demo/p4_teaser.png)
 
-[See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
+[See more details here.](https://philipwool.github.io/project3/project3.html)
 
 Creating digital elevation models of the Patapsco river to analyze sediment evacuation and changes in channel morphology as a result of the removal of the Bloede dam.
 
