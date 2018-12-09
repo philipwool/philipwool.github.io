@@ -34,7 +34,9 @@ Spatial and temporal distribution analysis of commercial development in Baltimor
 
 Using Python to write new shapefiles from a spatial query selection:
 
-
+```html
+QgsVectorFileWriter.writeAsVectorFormat(Real_Property, r'C:/Users/ges_student/Desktop/Project_2/Shapefiles/Comm_Poly_Test2.gpkg', 'utf-8', Real_Property.crs(),'GPKG', True)
+```
 
 <small>__Tools__: QGIS, Python, Photoshop</small>
 
