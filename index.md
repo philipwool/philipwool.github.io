@@ -32,11 +32,13 @@ Using SQL to query a Spatialite database:
 
 Spatial and temporal distribution analysis of commercial development in Baltimore city.
 
-Using Python to write new shapefiles from a spatial query selection:
+The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
 
 ```html
-QgsVectorFileWriter.writeAsVectorFormat(Real_Property, r'C:/Users/ges_student/Desktop/Project_2/Shapefiles/Comm_Poly_Test2.gpkg', 'utf-8', Real_Property.crs(),'GPKG', True)
+<small>Text to *make* small.</small>
 ```
+
+Notice I used markdown inside the html tags. 
 
 <small>__Tools__: QGIS, Python, Photoshop</small>
 
