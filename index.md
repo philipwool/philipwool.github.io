@@ -16,7 +16,7 @@ Spatial distribution analysis of the density of $250,000 homes in Baltimore city
 Using SQL to query a Spatialite database:
 
 ```html
-selection = Real_Property.getFeatures(QgsFeatureRequest(). setFilterExpression(u'"YEAR_BUILD" >= 1900 and "YEAR_BUILD" <= 2018 and "USEGROUP" = \'C\''))
+select st_centroid(GEOMETRY) from real_property_database where salepric >= 250000 and usegroup = 'R'
 ```
 
 <small>__Tools__: QGIS, SQL</small>
