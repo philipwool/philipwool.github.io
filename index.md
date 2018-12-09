@@ -26,7 +26,7 @@ This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum
 
 ![It's Fine Alt Text](https://philipwool.github.io/project2/3d_Comm.gif)
 
-[See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
+[See more details here.](https://philipwool.github.io/project2/project2.html)
 
 The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
 
@@ -51,7 +51,7 @@ Notice I used markdown inside the html tags.
 
 ![It's Fine Alt Text](philipwool.github.io/lab6/Guerry_Dotn_NatBrk.JPG)
 
-[See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
+[See more details here.](https://philipwool.github.io/lab6/lab6.html)
 
 This project uses a 350px square image for the teaser image, but inside the square image, I used a circle to highlight a certain area. Pellentesque eget mauris vel mi tristique finibus vitae quis massa. Mauris vulputate, nulla vel tincidunt interdum, sem mauris scelerisque neque, suscipit pellentesque felis augue a erat. 
 
