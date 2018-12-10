@@ -1,5 +1,7 @@
 # __Project 3__
 
+![alt text](https://philipwool.github.io/project3/Bloede_Pano.jpg)
+
 ![alt text](https://philipwool.github.io/project3/Drone2.gif)
 
 ![alt text](https://philipwool.github.io/project3/Patapsco_3D.png)
@@ -118,4 +120,7 @@ layer_tree.refreshLayerSymbology(MarchDEM_Good.id())
 ![alt text](https://philipwool.github.io/project3/Transect_Eval2.gif)
 
 ![alt text](https://philipwool.github.io/project3/Channel_3D2.JPG)
+
+![alt text](https://philipwool.github.io/project3/Bloede_Demo2.jpg)
+
 
