@@ -121,6 +121,10 @@ layer_tree.refreshLayerSymbology(MarchDEM_Good.id())
 
 ![alt text](https://philipwool.github.io/project3/Channel_3D2.JPG)
 
+![alt text](https://philipwool.github.io/project3/Bloede_Demo.jpg)
+
 ![alt text](https://philipwool.github.io/project3/Bloede_Demo2.jpg)
+
+![alt text](https://philipwool.github.io/project3/Before_After.jpg)
 
 
