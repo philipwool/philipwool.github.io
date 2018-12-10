@@ -127,4 +127,4 @@ layer_tree.refreshLayerSymbology(MarchDEM_Good.id())
 
 ![alt text](https://philipwool.github.io/project3/Before_After.jpg)
 
-
+![alt text](https://philipwool.github.io/project3/Elev_Diff.jpg)
