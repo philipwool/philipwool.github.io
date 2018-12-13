@@ -14,7 +14,7 @@ In order to achieve this, aerial drone imagery was first loaded into Agisoft Pho
 
 ![alt text](https://philipwool.github.io/project3/Aligned.PNG)
 
-The imagery is assessed for quality and aligned in order to create a sparse point cloud.  Known ground control points (GCPs) are added to the sparse point cloud and identified in the constituent images. A process known as gradual selection is applied to help identify and eliminate any points in the sparse point cloud that do not meet standards of accuracy. This is an important step as the sparse point cloud is the foundation on which the dense point cloud (DPC) is built. 
+The imagery is assessed for quality and aligned in order to create a sparse point cloud.  Known ground control points (GCPs) are added to the sparse point cloud and identified in the constituent images. A process known as gradual selection is applied to help identify and eliminate any points in the sparse point cloud that do not meet standards of accuracy.
 
 ![alt text](https://philipwool.github.io/project3/SPC.PNG)
 
