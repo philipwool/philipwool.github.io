@@ -70,7 +70,7 @@ Using Geoda to evaluate spatial autocorrelation.
 
 ### Project 3
 
-![It's Fine Alt Text](project4_demo/p4_teaser.png)
+![It's Fine Alt Text](https://philipwool.github.io/project3/Bloede_Pano.jpg)
 
 [See more details here.](https://philipwool.github.io/project3/project3.html)
 
