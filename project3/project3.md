@@ -50,9 +50,9 @@ After the DEM is built, it can be brought into Arcmap in order to perform error 
 
 ![alt text](https://philipwool.github.io/project3/Channel_DEM_Complete.png)
 
-The next part of the analysis is done in QGIS. Using a Python script, the DEM is brought in, as well as the MGS transect points, which are displayed in red. Additionally, within Python an SQL query is performed in order to create a selection of points that lie within an acceptable margin of error, in this case one foot. The script then proceeds to write the selection to file as a new shapefile, add this new shapefile to the map, and display the new points in green.
-
 ![alt text](https://philipwool.github.io/project3/Values_to_Points.PNG)
+
+The next part of the analysis is done in QGIS. Using a Python script, the DEM is brought in, as well as the MGS transect points, which are displayed in red. Additionally, within Python an SQL query is performed in order to create a selection of points that lie within an acceptable margin of error, in this case one foot. The script then proceeds to write the selection to file as a new shapefile, add this new shapefile to the map, and display the new points in green.
 
 ```python
 #Add Patapsco Raster
