@@ -133,7 +133,7 @@ layer_tree.refreshLayerSymbology(MarchDEM_Good.id())
 __Initial Transect Points__
 ![alt text](https://philipwool.github.io/project3/Transect_Exam.JPG)
 
-__Points in green are withing one foot of elevation values reported by MGS transect point values
+__Points in green are withing one foot of elevation values reported by MGS transect point values__
 ![alt text](https://philipwool.github.io/project3/Transect_Eval.JPG)
 
 ![alt text](https://philipwool.github.io/project3/Transect_Eval.gif)
