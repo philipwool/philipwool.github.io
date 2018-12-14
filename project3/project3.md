@@ -23,24 +23,31 @@ This is an important step as the sparse point cloud is the foundation on which t
 __Dense Point Clouds__
 ![alt text](https://philipwool.github.io/project3/DPC.PNG)
 
+__They are Capable of modeling bathymetric features in shallow water...__
 ![alt text](https://philipwool.github.io/project3/DPCzoom.PNG)
 
+__...providing unique views in a three-dimensional environment...__
 ![alt text](https://philipwool.github.io/project3/DPCzoom2.PNG)
 
+__...and capturing a suprising level of detail.__
 ![alt text](https://philipwool.github.io/project3/DPCzoom3.PNG)
 
 Once a DPC is built, groundpoints are classified and seperatated from other data points.
 
 ![alt text](https://philipwool.github.io/project3/Groundpts.PNG)
 
-from these ground points, a georeferenced DEM can be built.
+From these ground points, a georeferenced DEM can be built.
 
 __Digital Elevation Model Images__
 ![alt text](https://philipwool.github.io/project3/DEM.PNG)
 
+These DEMs can capture extremely detailed bathymetric features such as depositional sand bars.
+
 ![alt text](https://philipwool.github.io/project3/DEMzoom.PNG)
 
 ![alt text](https://philipwool.github.io/project3/DEMzoom2.PNG)
+
+We can also create georeferenced orthomosaics of all the contributing photos.
 
 ![alt text](https://philipwool.github.io/project3/Ortho.PNG)
 
@@ -154,6 +161,10 @@ This DEM can then be used as the Raster layer in 3D Viewer to create a three-dim
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nINVNlcLoeo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+The Patapsco river and its surrounding areas produce some of the flashiest watersheds in the US. This technology would have been ideally suited to study such a highly variable channel for that reason alone.
+
+The removal of the Bloede dam takes alterations to flow patterns and sediment budgets to an unparalleled level. With structure from motion we can sense and model changes in channel morphology over the entire stream reach, rather than relying on widely spread and infrequent transect data.
 
 ![alt text](https://philipwool.github.io/project3/Bloede_Demo2.jpg)
 
