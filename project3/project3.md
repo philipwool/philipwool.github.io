@@ -156,15 +156,15 @@ This DEM can then be used as the Raster layer in 3D Viewer to create a three-dim
 
 The Patapsco river and its surrounding areas produce some of the flashiest watersheds in the US. This technology would have been ideally suited to study such a highly variable channel for that reason alone.
 
-![alt text](https://philipwool.github.io/project3/Upstream_Via.jpg)
+![alt text](https://philipwool.github.io/project3/Upstream_Via.png)
 
 ![alt text](https://philipwool.github.io/project3/March_UpstreamVia_Ortho_Highlight.jpg)
 
-![alt text](https://philipwool.github.io/project3/March_Leaf_Off_Highlight.PNG)
+![alt text](https://philipwool.github.io/project3/March_Leaf_Off_Highlight.png)
 
 ![alt text](https://philipwool.github.io/project3/July_UpstreamVia_DEM.jpg)
 
-![alt text](https://philipwool.github.io/project3/July_Leaf_On_Highlight.PNG)
+![alt text](https://philipwool.github.io/project3/July_Leaf_On_Highlight.png)
 
 ![alt text](https://philipwool.github.io/project3/July_UpstreamVia_Ortho_Highlight.jpg)
 
