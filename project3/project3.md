@@ -174,8 +174,13 @@ __Bathymetry Alteration, Bars Buried Under Sediment__
 __Deposition of sediment and alteration of channel can be seen__
 ![alt text](https://philipwool.github.io/project3/July_Leaf_On_Highlight.png)
 
-__Stream Profile, Pre and Post Ellicott City 2018 Flood__
+__Considerable Bank Erosion__
 ![alt text](https://philipwool.github.io/project3/July_UpstreamVia_Ortho_Highlight.jpg)
+
+__Stream Profile, Pre and Post Ellicott City 2018 Flood__
+![alt text](https://philipwool.github.io/project3/March_And_July.PNG)
+
+
 
 # __More importantly...__
 
