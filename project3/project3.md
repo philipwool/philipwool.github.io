@@ -178,7 +178,7 @@ __Considerable Bank Erosion__
 ![alt text](https://philipwool.github.io/project3/July_UpstreamVia_Ortho_Highlight.jpg)
 
 __Stream Profile, Pre and Post Ellicott City 2018 Flood__
-![alt text](https://philipwool.github.io/project3/Post_Flood.PNG)
+![alt text](https://philipwool.github.io/project3/Pre_Flood.PNG)
 ![alt text](https://philipwool.github.io/project3/March_And_July.PNG)
 
 
