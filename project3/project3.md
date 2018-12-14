@@ -154,19 +154,31 @@ This DEM can then be used as the Raster layer in 3D Viewer to create a three-dim
 
 # __Why do this?__
 
+
 The Patapsco river and its surrounding areas produce some of the flashiest watersheds in the US. This technology would have been ideally suited to study such a highly variable channel for that reason alone.
 
-![alt text](https://philipwool.github.io/project3/Upstream_Via.png)
+The following images were taken in March and July respectively, pre and post 2018 Ellicott City Flood storm event. An event of this maginitude can cause substantial morphologic change in the channel, as evidenced below. Structure From Motion can capture these changes.
 
+__Analysis of Transect__
+![alt text](https://philipwool.github.io/project3/Upstream_Via.PNG)
+
+__Sand Bars__
 ![alt text](https://philipwool.github.io/project3/March_UpstreamVia_Ortho_Highlight.jpg)
 
+__Sand Bar Modeled in DEM__
 ![alt text](https://philipwool.github.io/project3/March_Leaf_Off_Highlight.png)
 
+__Bathymetry Alteration, Bars Buried Under Sediment__
 ![alt text](https://philipwool.github.io/project3/July_UpstreamVia_DEM.jpg)
 
+__Deposition of sediment and alteration of channel can be seen__
 ![alt text](https://philipwool.github.io/project3/July_Leaf_On_Highlight.png)
 
+__Stream Profile, Pre and Post Ellicott City 2018 Flood__
 ![alt text](https://philipwool.github.io/project3/July_UpstreamVia_Ortho_Highlight.jpg)
+
+# __More importantly...__
+
 
 
 ![alt text](https://philipwool.github.io/project3/Bloede_Demo.jpg)
@@ -177,8 +189,19 @@ The Patapsco river and its surrounding areas produce some of the flashiest water
 
 The removal of the Bloede dam takes alterations to flow patterns and sediment budgets to an unparalleled level. With structure from motion we can sense and model changes in channel morphology over the entire stream reach, rather than relying on widely spread and infrequent transect data.
 
+__This photo was taken by me immediately following the breach__
 ![alt text](https://philipwool.github.io/project3/Bloede_Demo2.jpg)
+
+It is evident from this image that substantial change has occurred in the section of the stream that was formerly the dam pond.
 
 ![alt text](https://philipwool.github.io/project3/Before_After.JPG)
 
+This removal evacuated huge amounts of sediment that were previously impounded behind the dam in a short amount of time.
+
+With Structure From Motion we can not only model the change in elevation of the dam pond, but quantify the amount of sediment that has been evacuated.
+
+__Kristian Nelson recently completed this analysis of elevation change in the dampond section since its removal.__
+
 ![alt text](https://philipwool.github.io/project3/Elev_Diff.jpg)
+
+This type of analysis can be applied to the entire stream reach in the future, giving us the ability to track morphological changes after major events and over time.
