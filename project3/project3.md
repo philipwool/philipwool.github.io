@@ -1,4 +1,6 @@
-# __Project 3__
+---
+title: Project 3
+---
 
 ![alt text](https://philipwool.github.io/project3/Bloede_Pano.jpg)
 
