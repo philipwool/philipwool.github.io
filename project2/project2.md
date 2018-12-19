@@ -1,5 +1,10 @@
 ---
-title: Project 2
+title: Project 
+feature_image: "Bloede_Pano.jpg"
+feature_text: |
+  ## Commercial Development in Baltimore, Maryland
+  Using Python to analyze commercial development over the past century, both spatially and temporally.
+  
 ---
 
 #### __Objective__
