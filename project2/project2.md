@@ -1,6 +1,6 @@
 ---
 title: Project 2 
-feature_image: "3D_Heat_2018.png"
+feature_image: "3D_2018_Comm.png"
 feature_text: |
   ## Commercial Development in Baltimore, Maryland
   Using Python to analyze commercial development over the past century, both spatially and temporally.
