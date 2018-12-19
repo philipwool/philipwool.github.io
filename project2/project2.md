@@ -1,4 +1,6 @@
-# __Project 2__
+---
+title: Project 2
+---
 
 #### __Objective__
 
