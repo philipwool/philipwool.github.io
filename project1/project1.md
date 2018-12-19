@@ -1,5 +1,10 @@
 ---
 title: Project 1
+feature_image: "Hex_Analysis_screenshot.png"
+feature_text: |
+  ## Density of $250,000 Homes in Baltimore, Maryland
+  Using SQL to perform a spatial query and determine the density of $250,000 homes.
+  
 ---
 
 First I imported the Real_Property vector shapefile into QGIS.
