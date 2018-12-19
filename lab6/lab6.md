@@ -1,5 +1,10 @@
 ---
 title: Lab 6
+feature_image: "49185948-300e7100-f331-11e8-8cd3-7efba3d74b12.JPG"
+feature_text: |
+  ## Spatial Autocorrelation Analysis
+  This is a demo of GeoDa's Spatial Autocorrelation analysis.
+  
 ---
 
 ## __Part 1__
