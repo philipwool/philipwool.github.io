@@ -7,8 +7,6 @@ feature_text: |
   
 ---
 
-![alt text](https://philipwool.github.io/project3/Bloede_Pano.jpg)
-
 The removal of the Bloede Dam on the Patapsco river provides a unique opportunity to model phenomena such as the release of large amounts of previously impounded sediment, and morphologic changes caused a completely new set of upstream flow conditions.
 
 This particular project has several objectives, of which the first is to create a digital elevation model (DEM) of the entire Patapsco study area using structure from motion (SFM). This area includes the dam pond upstream of the Bloede dam, and reaches all the way down to the lower floodplain. The second component of this project is to compare the digital elevation values developed using SFM to those associated with Maryland Geological Survey (MGS) transects to assess the accuracy of the model. In the long term, if these techniques for creating DEMs prove to be accurate, they can be used to monitor and model characteristics of dam removal such as the evacuation and deposition of sediment that was impounded behind the dam, as well as changes to channel morphology. When compared to traditional methods, SFM offers the opportunity to observe these phenomena over the entire stream reach rather than using transect data to interpolate conditions over what can be a substantial unobserved area.
