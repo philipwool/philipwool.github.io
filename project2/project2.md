@@ -1,6 +1,6 @@
 ---
 title: Project 2 
-feature_image: "2018 Baltimore Commercial Development.png"
+feature_image: "2018_Baltimore_Commercial_Development.png"
 feature_text: |
   ## Commercial Development in Baltimore, Maryland
   Using Python to analyze commercial development over the past century, both spatially and temporally.
