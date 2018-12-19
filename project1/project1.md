@@ -1,4 +1,6 @@
-__GES486 Project 1 Procedural Write Up__
+---
+title: Project 1
+---
 
 First I imported the Real_Property vector shapefile into QGIS.
 I also added a shapefile of the water bodies in Baltimore city from:
