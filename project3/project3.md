@@ -1,5 +1,10 @@
 ---
 title: Project 3
+feature_image: "Bloede_Pano.jpg"
+feature_text: |
+  ## Bloede Dam Removal Analysis
+  Using Structure From Motion to model changes in channel morphology.
+  
 ---
 
 ![alt text](https://philipwool.github.io/project3/Bloede_Pano.jpg)
