@@ -1,5 +1,5 @@
 ---
-title: Project 
+title: Project 2 
 feature_image: "3D_Heat_2018.png"
 feature_text: |
   ## Commercial Development in Baltimore, Maryland
