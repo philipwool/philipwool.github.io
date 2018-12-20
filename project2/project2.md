@@ -65,7 +65,7 @@ QgsProject.instance().addMapLayer(Comm_Poly_Test2)
 * __The individual components of the code are shown below:__
 
 
-1. Add in the Real_Property Layer
+Add in the Real_Property Layer
 
 ```python
 Real_Property = QgsVectorLayer('C:/Users/ges_student/Desktop/Project_2/Shapefiles/Real_Property_Proj.gpkg', 'Real_Property')
@@ -75,7 +75,7 @@ QgsProject.instance().addMapLayer(Real_Property)
 # Should return "<qgis._core.QgsVectorLayer object at 0x000001714E5500D8>"
 ```
 
-2. Change the fill color to gray
+Change the fill color to gray
 
 ```python
 renderer = Real_Property.renderer()
@@ -88,14 +88,14 @@ symbol.setColor(Qt.gray)
 Real_Property.triggerRepaint()
 ```
 
-3. Update the layer tree
+Update the layer tree
 
 ```python
 layer_tree = iface.layerTreeView()
 layer_tree.refreshLayerSymbology(Real_Property.id())
 ```
 
-4. perform a selection commercial lots present during the desired time period in twenty year increments.
+perform a selection commercial lots present during the desired time period in twenty year increments.
 
 ```python
 selection = Real_Property.getFeatures(QgsFeatureRequest(). setFilterExpression(u'"YEAR_BUILD" >= 1900 and "YEAR_BUILD" <= 2018 and "USEGROUP" = \'C\''))
@@ -106,13 +106,13 @@ iface.mapCanvas().zoomToSelected()
 __Script Selection__
 ![alt text](https://philipwool.github.io/project2/Script_Selection.JPG)
 
-5. Save this selection to file as a new Shapefiles
+Save this selection to file as a new Shapefiles
 
 ```python
 QgsVectorFileWriter.writeAsVectorFormat(Real_Property, r'C:/Users/ges_student/Desktop/Project_2/Shapefiles/Comm_Poly_Test2.gpkg', 'utf-8', Real_Property.crs(),'GPKG', True)
 ```
 
-6. Add the new shapefile to the map.
+Add the new shapefile to the map.
 
 ```python
 Comm_Poly_Test2 = QgsVectorLayer('C:/Users/ges_student/Desktop/Project_2/Shapefiles/Comm_Poly_Test2.gpkg', 'Real_Property')
