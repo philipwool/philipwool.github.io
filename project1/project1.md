@@ -27,21 +27,31 @@ http://gis-baltimore.opendata.arcgis.com/datasets/baltimore-city-polygon
 
 * All layers were converted to the UTM 18N projected coordinate system (6347) in order to create a 3D map later in the process.
 Next I created a spatialite database.
+
 * I then added all of the shapefiles as well as the DEM to the project 1 database.
+
 * I ran a spatial query using SQL in database manager.
+
 * The spatial query created centroids of the polygons of residential properties with sale prices over $250,000.
 The SQL script I used was as follows:
 
 ![alt text](https://philipwool.github.io/project1/Spatial_SQL_Script.PNG)
 
 * In the Attribute table residential properties are indicated under the column “Usegroup” as “R” and sale price is listed under the column “Salepric”.
+
 * I created a hex grid using the “Create Grid” tool with 0.5km vertical and horizontal spacing to the extent of the boundary shapefile.
+
 * I then used the “count points in polygons” tool to perform a hexagon analysis.
 Specifically, I calculated the amount of points representing residential properties with sale prices over $250,000 within each hexagonal polygon.
+
 * Next I clipped the hexagon analysis layer using the Baltimore boundary layer.
+
 * I then used the “magma” graduated color ramp to classify and visually display the number of points in each polygon.
+
 * I displayed the Baltimore city water layer on top of the clipped hexagon analysis layer.
+
 * I then used the Baltimore city DEM as the bottom-most layer.
+
 * Finally I used the “New 3D View” option under view to create a three-dimensional map of the hexagon analysis overlaid on the elevation map of Baltimore city to view the relationship between factors like elevation and proximity to water to the distribution of residential property over $250,000.
 
 ## Results
