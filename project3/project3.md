@@ -200,7 +200,7 @@ __Stream Profile, Pre and Post Ellicott City 2018 Flood__
 
 The removal of the Bloede dam takes alterations to flow patterns and sediment budgets to an unparalleled level. With structure from motion we can sense and model changes in channel morphology over the entire stream reach, rather than relying on widely spread and infrequent transect data.
 
-__This photo was taken by me immediately following the breach__
+__I took this photo immediately following the breach__
 ![alt text](https://philipwool.github.io/project3/Bloede_Demo2.jpg)
 
 It is evident from this image that substantial change has occurred in the section of the stream that was formerly the dam pond.
