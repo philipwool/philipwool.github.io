@@ -17,8 +17,6 @@ Using SQL to query a Spatialite database:
 
 <small>__Tools__: QGIS, SQL</small>
 
-<small>__Data__: 
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
 
 </div>
 
@@ -42,8 +40,6 @@ Notice I used markdown inside the html tags.
 
 <small>__Tools__: QGIS, R</small>
 
-<small>__Data__:
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
 
 </div>
 </div>
@@ -61,8 +57,6 @@ Using Geoda to evaluate spatial autocorrelation.
 
 <small>__Tools__: GeoDa
 
-<small>__Data__: 
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
 
 </div>
 
@@ -78,8 +72,6 @@ Creating digital elevation models of the Patapsco river to analyze sediment evac
 
 <small>__Tools__: Agisoft, QGIS, ArcGIS, Python
 
-<small>__Data__:
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
 
 </div>
 </div>
