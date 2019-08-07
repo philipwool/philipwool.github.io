@@ -30,14 +30,6 @@ Using SQL to query a Spatialite database:
 
 Spatial and temporal distribution analysis of commercial development in Baltimore city.
 
-The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
-
-```html
-<small>Text to *make* small.</small>
-```
-
-Notice I used markdown inside the html tags. 
-
 <small>__Tools__: QGIS, R</small>
 
 
