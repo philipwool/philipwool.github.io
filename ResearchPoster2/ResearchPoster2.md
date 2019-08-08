@@ -3,7 +3,7 @@ title: Project 1
 feature_image: "DPC.jpg"
 feature_text: |
   ## Are Low-Altitude Remote Sensing Technologies More Effective Than Traditional Survey Techniques For Monitoring Channel Change?
-  Using SQL to perform a spatial query and determine the density of $250,000 or greater homes.
+  Converting modeled and interpolated digital elevation models from Cartesian to Stream-Centered coordinate systems for more accurate       assesment of efficacy.
   
 ---
 
