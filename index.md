@@ -73,6 +73,8 @@ Creating digital elevation models of the Patapsco river to analyze sediment evac
   
   ![It's Fine Alt Text](https://philipwool.github.io/ResearchPoster2/DPC.jpg)
   
+  [See more details here.](https://philipwool.github.io/ResearchPoster2/ResearchPoster2.html)
+  
   Converting modeled and interpolated digital elevation models from Cartesian to Stream-Centered coordinate systems for more accurate     assesment of efficacy.
 
 <!--This is just other markdown -->
