@@ -1,5 +1,5 @@
 ---
-title: Project 1
+title: URCAD Poster Presentation
 feature_image: "XY_DEM_V6.jpg"
 feature_text: |
   ## Are Low-Altitude Remote Sensing Technologies More Effective Than Traditional Survey Techniques For Monitoring Channel Change?
@@ -7,4 +7,4 @@ feature_text: |
   
 ---
 
-![alt text](https://philipwool.github.io/ResearchPoster2/Slide1.JPG =250x250)
+![alt text](https://philipwool.github.io/ResearchPoster2/Slide1.JPG){:height="700px" width="400px"}
