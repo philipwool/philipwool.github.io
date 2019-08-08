@@ -68,6 +68,16 @@ Creating digital elevation models of the Patapsco river to analyze sediment evac
 </div>
 </div>
 
+<!--This is the second row of projects -->
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+  
+  ### Bloede Dam Research Poster: Phase 2
+  
+  ![It's Fine Alt Text](https://philipwool.github.io/ResearchPoster2/DPC.jpg)
+  
+  Converting modeled and interpolated digital elevation models from Cartesian to Stream-Centered coordinate systems for more accurate     assesment of efficacy.
+
 <!--This is just other markdown -->
 
 ### Markdown
