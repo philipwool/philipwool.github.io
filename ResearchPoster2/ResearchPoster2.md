@@ -7,6 +7,4 @@ feature_text: |
   
 ---
 
-![alt text](https://philipwool.github.io/ResearchPoster2/Slide1.JPG)
-
-![alt text](https://philipwool.github.io/ResearchPoster2/Summary_Writeup.docx)
+![alt text](https://philipwool.github.io/ResearchPoster2/Slide1.JPG =250x250)
