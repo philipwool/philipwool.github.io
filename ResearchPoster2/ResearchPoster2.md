@@ -7,4 +7,4 @@ feature_text: |
   
 ---
 
-![alt text](https://philipwool.github.io/ResearchPoster2/Slide1.JPG){:height="700px" width="400px"}
+![alt text](https://philipwool.github.io/ResearchPoster2/Slide1.JPG){:height="2800px" width="1600px"}
